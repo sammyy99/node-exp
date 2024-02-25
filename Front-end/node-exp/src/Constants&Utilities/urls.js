@@ -1,0 +1,1 @@
+export const loginPageBackground ='https://img.freepik.com/free-vector/night-forest_1308-69877.jpg?w=1380&t=st=1708891032~exp=1708891632~hmac=8d23fac5cc19ee74ebb27e52302711af91a156e05a34229e00a1ed9e7cd1434b'
