@@ -6,7 +6,7 @@ const LoginPage = () => {
   return (
     <div className=''>
       <img className='h-[100vh] w-full absolute -z-50' alt='' src={loginPageBackground}></img>
-      <div className='w-full h-screen border border-white'> dsfs</div>
+      <div className='w-full h-screen flex items-center justify-center'><LoginForm/></div>
     </div>
   )
 }
